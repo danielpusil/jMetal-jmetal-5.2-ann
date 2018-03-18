@@ -1,0 +1,41 @@
+
+
+----------------------------------------------------------------------------------------------------
+Wed Feb 14 15:48:04 GMT-05:00 2018
+NovelGHS
+Novel Global Best Harmony Search  HMS: 10 PM: 0.2 
+Evaluations : 1000 maxExecution 5
+ NHiddenNeurons 50 NInputNeuros 4 func Null
+Iris Type CV
+ 
+TrainingAccuracyHistory      TestingAccuracyHistory
+     Train [ 0] = 0.05   Test[0]=0.16   Time : 15898
+     Train [ 1] = 0.05   Test[1]=0.1   Time : 11805
+     Train [ 2] = 0.05   Test[2]=0.08   Time : 12433
+     Train [ 3] = 0.04   Test[3]=0.16   Time : 12173
+     Train [ 4] = 0.04   Test[4]=0.08   Time : 13142
+ Train average: 0.045999996
+ Train Standard deviation: 0.004898980259895325
+ Test average: 0.116
+ Test Standard deviation: 0.03666060417890549
+Average running time: 13090.2 ms
+
+----------------------------------------------------------------------------------------------------
+Wed Feb 14 15:48:52 GMT-05:00 2018
+NovelGHS
+Novel Global Best Harmony Search  HMS: 10 PM: 0.2 
+Evaluations : 1000 maxExecution 5
+ NHiddenNeurons 50 NInputNeuros 4 func Null
+Iris Type CV
+ 
+TrainingAccuracyHistory      TestingAccuracyHistory
+     Train [ 0] = 0.05   Test[0]=0.16   Time : 10689
+     Train [ 1] = 0.05   Test[1]=0.1   Time : 14442
+     Train [ 2] = 0.05   Test[2]=0.08   Time : 6685
+     Train [ 3] = 0.04   Test[3]=0.16   Time : 7635
+     Train [ 4] = 0.04   Test[4]=0.08   Time : 7810
+ Train average: 0.045999996
+ Train Standard deviation: 0.004898980259895325
+ Test average: 0.116
+ Test Standard deviation: 0.03666060417890549
+Average running time: 9452.2 ms

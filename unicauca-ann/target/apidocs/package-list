@@ -1,0 +1,17 @@
+Client
+Server
+cliente.db.implemente
+co.edu.unicauca.dataset
+co.edu.unicauca.elm
+co.edu.unicauca.elm.util
+co.edu.unicauca.elm_function
+co.edu.unicauca.elm_function.impl
+co.edu.unicauca.exec
+co.edu.unicauca.matrix.util
+co.edu.unicauca.moore_penrose
+co.edu.unicauca.moore_penrose.impl
+co.edu.unicauca.problem
+co.edu.unicauca.problem.cross_validation
+co.edu.unicauca.problem.training_testing
+co.edu.unicauca.util.sumary
+interfaces
